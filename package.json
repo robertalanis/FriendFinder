@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/robertalanis/friend-finder/issues"
   },
-  "homepage": "https://github.com/robertalanis/friend-finder#readme"
+  "homepage": "https://github.com/robertalanis/friend-finder#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }
